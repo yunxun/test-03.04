@@ -1,0 +1,13 @@
+Script started on 2016年03月04日 (週五) 16時10分22秒
+]0;AN4046072@2015cpp: ~AN4046072@2015cpp:~$ whoami;pwd
+AN4046072
+/home/AN4046072
+]0;AN4046072@2015cpp: ~AN4046072@2015cpp:~$ git config -l
+user.name=yunxun
+user.email=jeff51925@gmail.com
+]0;AN4046072@2015cpp: ~AN4046072@2015cpp:~$ git clio[K[Kone https://[K[K[K[K[K[K[K[Khttps://github.com/yunxun/test-03.04.git
+Cloning into 'test-03.04'...
+warning: You appear to have cloned an empty repository.
+]0;AN4046072@2015cpp: ~AN4046072@2015cpp:~$ exit
+
+Script done on 2016年03月04日 (週五) 16時24分35秒
